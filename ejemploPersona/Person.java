@@ -12,7 +12,7 @@ public class Person {
  
   public Person(XLog log) {
     age = 0;
-    this.log=log;
+    this.log= log;
     
   }
   
