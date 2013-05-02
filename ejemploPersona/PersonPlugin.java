@@ -1,3 +1,4 @@
+package org.processmining.plugins.pluginTPDLucas.ejemploPersona;
 
 import org.deckfour.xes.model.XLog;
 import org.processmining.contexts.uitopia.UIPluginContext;

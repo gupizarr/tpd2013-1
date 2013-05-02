@@ -1,4 +1,5 @@
- 
+package org.processmining.plugins.pluginTPDLucas.ejemploPersona;
+
 public class PersonConfiguration {
   String name;
  
